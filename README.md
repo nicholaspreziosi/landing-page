@@ -1,0 +1,1 @@
+This project will require me to stylize a landing page using my knowledge of CSS and its underlying concepts. It is an opportunity to bring everything I have learned in the CSS section together to create a nice looking web page and match the example given.
