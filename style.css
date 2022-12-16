@@ -117,3 +117,21 @@ ul {
     flex-direction: column;
 }
 
+.container-3 {
+    background-color: #E5E7EB;
+    padding: 64px 250px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    margin-bottom: -8px;
+}
+
+.quote-subtext {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: end;
+    margin-right: 16px;
+}
