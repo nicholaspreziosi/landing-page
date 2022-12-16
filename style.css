@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 16px 96px;
+    padding: 16px 128px;
 }
 
 .logo {
@@ -98,7 +98,7 @@ ul {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    padding-bottom: 128px;
+    padding-bottom: 96px;
 }
 
 .gallery-row{
